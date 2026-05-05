@@ -3,10 +3,6 @@
 <!-- Yuji Itadori Black Flash GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueW9tcXJ6Z3R3eG05Z3ZndmF6eGZ6eGZ6eGZ6eGZ6eGZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ovW7HclK9H6W/giphy.gif" width="100%" alt="Yuji Itadori" />
 
-# 🥊 <font face="Lexend Deca">MOHAMED AFNNAN</font>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Google+Student+Ambassador;IoT+Specialist+%40+FISAT;Electronics+%26+Instrumentation" />
-
-</div>
 <!-- ANIMATED HERO -->
 <img src="https://media.tenor.com/D_pGv0M4l_8AAAAM/itadori-yuuji-jujutsu-kaisen.gif" width="100%" />
 
