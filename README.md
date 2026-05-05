@@ -1,25 +1,24 @@
 <div align="center">
-  <!-- Yuji Itadori Banner -->
-  <img src="https://media.tenor.com/D_pGv0M4l_8AAAAM/itadori-yuuji-jujutsu-kaisen.gif" width="100%" />
+  <!-- Hero Banner: Dynamic Tech Pattern with JJK Vibe -->
+  <img src="https://media.tenor.com/D_pGv0M4l_8AAAAM/itadori-yuuji-jujutsu-kaisen.gif" width="100%" alt="Yuji Itadori Banner" />
   
   <h1>Hi, I'm Mohamed Afnnan! 🥊</h1>
   <p align="center">
     <b>Google Student Ambassador | B.Tech Electronics & Instrumentation @ FISAT</b><br>
-    <i>"I don't know how I'll feel when I'm dead, but I don't want to regret the way I lived."</i>
+    <i>"Exorcising hardware bugs and building scalable cursed techniques."</i>
   </p>
 
-  <!-- Quick Badges -->
+  <!-- Professional Rank Badges -->
   <p>
-    <img src="https://img.shields.io/badge/ISA-Student%20Representative-FF69B4?style=flat-square" />
-    <img src="https://img.shields.io/badge/IDEA%20Lab-IoT%20Specialist-1A1A2E?style=flat-square" />
-    <img src="https://img.shields.io/badge/FISAT-2025--29-D22B2B?style=flat-square" />
+    <img src="https://img.shields.io/badge/Rank-Special%20Grade%20Sorcerer-FF69B4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-1A1A2E?style=for-the-badge" />
   </p>
 </div>
 
 ---
 
-### 🛠 Cursed Techniques (Tech Stack)
-These are the tools I use to build efficient industrial and embedded systems[cite: 1].
+### 🛠 Cursed Techniques (My Tech Stack)
+These are the tools I use to master the physical and digital world.
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,13 +26,14 @@ These are the tools I use to build efficient industrial and embedded systems[cit
   </a>
 </p>
 
-- **Core Expertise:** Embedded Systems, IoT (ESP32/Arduino), Circuit Design, and Technical Documentation[cite: 1].
-- **Soft Skills:** Event Anchoring, Public Speaking (Toastmasters YLP), and Graphic Design[cite: 1, 2].
+- **Hardware Mastery:** Arduino Uno, ESP32, Sensor Interfacing, and Circuit Analysis[cite: 1].
+- **Software Skills:** Shell Programming, Technical Documentation (LaTeX), and AI-assisted data entry[cite: 1].
+- **Creative Arts:** 3D Animation (Blender), Graphic Design (Photoshop), and Audio Production[cite: 1].
 
 ---
 
-### 📊 Sorcerer Grade Progress
-These cards update automatically based on your GitHub activity[cite: 1].
+### 📊 Sorcerer Grade Progress[cite: 1]
+My real-time coding activity and language proficiency.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&title_color=FF69B4&icon_color=D22B2B&text_color=ffffff&bg_color=1A1A2E&hide_border=true" alt="Main Stats" height="150" />
@@ -42,15 +42,24 @@ These cards update automatically based on your GitHub activity[cite: 1].
 
 ---
 
-### 🌙 Current Missions
-*   🛡️ **Smart Traffic Safety:** Developing a Hairpin Bend Traffic Alert System at AICTE IDEA Lab[cite: 1, 2].
-*   🧮 **Academic Tools:** Maintaining the KTU 2024 Scheme SGPA/CGPA Calculator[cite: 1, 2].
-*   ✍️ **Technical Writing:** Authoring the "EIE 101" blog series for instrumentation students[cite: 1, 2].
-*   🎙️ **Media & Outreach:** Serving as Magazine Sub Editor and Podcast Crew member at FISAT[cite: 1, 2].
+### 🌙 Current Mission Log
+*   🛡️ **Domain Expansion:** Developing a **Smart Hairpin Bend Traffic Alert System** at AICTE IDEA Lab.
+*   🧮 **Cursed Tool:** Maintaining the **KTU 2024 Scheme SGPA/CGPA Calculator**[cite: 1, 2].
+*   ✍️ **Public Record:** Authoring **EIE 101**, a technical series for instrumentation fundamentals[cite: 1, 2].
+*   📢 **Outreach:** Leading as a **Google Student Ambassador** and **ISA Student Representative**[cite: 1, 2].
 
 ---
 
-### 🤝 Connect with Me
+### 🛡️ Cursed Energy Reserves (Learning Progress)[cite: 1, 2]
+**B.Tech Electronics & Instrumentation (FISAT)**
+![Progress](https://geps.dev/progress/25?dangerColor=D22B2B&style=for-the-badge)
+
+**ISC2 Certified in Cybersecurity (In Progress)**
+![Progress](https://geps.dev/progress/40?dangerColor=FF69B4&style=for-the-badge)
+
+---
+
+### 🤝 Connect with the Sorcerer[cite: 1, 2]
 <p align="left">
 <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
