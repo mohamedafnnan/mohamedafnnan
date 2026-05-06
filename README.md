@@ -29,11 +29,13 @@
 
 ---
 <!-- STATS & DIVERGENT FIST -->
+<!-- STATS & DIVERGENT FIST -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="320" valign="top">
+    <td width="350" valign="top">
       <h4><font face="Lexend Deca" color="#FF69B4">📊 SORCERER RANKING</font></h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=D22B2B&text_color=white&hide_border=true&locale=en&count_private=true" width="300" />
+      <!-- Alternative Stable Stats -->
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true" width="300" />
     </td>
     <td width="100" valign="center" align="center">
        <img src="divergent-fist.png" width="80" />
