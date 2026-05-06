@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER: Black Flash Action -->
-<img src="black-flash.png" width="100%" alt="Black Flash" />
+<!-- HEADER: Resized to be a sleek banner rather than a full-screen image -->
+<img src="black-flash.png" width="600" alt="Black Flash" />
 
 <br>
 
@@ -35,8 +35,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&fire=FF69B4&ring=D22B2B" width="100%" />
     </td>
     <td width="40%" valign="center">
-       <!-- Asset: Divergent Fist -->
-       <img src="divergent-fist.png" width="100%" />
+       <!-- Asset: Resized Divergent Fist to match the height of the stats -->
+       <img src="divergent-fist.png" width="220" />
     </td>
   </tr>
 </table>
@@ -45,7 +45,8 @@
 
 ### 🏯 <font face="Lexend Deca" color="#FF69B4">DOMAIN EXPANSION: MISSIONS</font>
 <p align="left">
-<img src="cursor-head.png" width="120" align="right" />
+<!-- Resized the cursor-head so it doesn't push text around -->
+<img src="cursor-head.png" width="80" align="right" />
   
 *   **Google Student Ambassador** | FISAT Chapter
 *   **IoT Specialist** | AICTE IDEA Lab
@@ -55,7 +56,7 @@
 
 ---
 
-<!-- SNAKE ANIMATION: Keeping the 'Old Stuff' -->
+<!-- SNAKE ANIMATION: Keeping the essential old stuff -->
 ### 🐍 <font face="Lexend Deca" color="#FF69B4">CONTRIBUTION SNAKE</font>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedafnnan/mohamedafnnan/output/github-contribution-grid-snake-dark.svg">
@@ -65,8 +66,8 @@
 
 <br>
 
-<!-- FOOTER: Rage Mode -->
-<img src="yuji-rage.png" width="100%" />
+<!-- FOOTER: Rage Mode resized so it's a finisher, not the whole screen -->
+<img src="yuji-rage.png" width="500" />
 
 <br>
 
