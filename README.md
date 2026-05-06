@@ -28,21 +28,19 @@
 <img src="https://skillicons.dev/icons?i=python,c,js,arduino,raspberrypi,linux,git,ps,blender,ai,pr&theme=dark" height="35" />
 
 ---
-
 <!-- STATS & DIVERGENT FIST -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="320" valign="top">
       <h4><font face="Lexend Deca" color="#FF69B4">📊 SORCERER RANKING</font></h4>
-      <!-- Simplified stats link for better loading -->
-      <img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=transparent&title_color=FF69B4&icon_color=D22B2B&text_color=white&hide_border=true" width="300" />
+      <!-- This is the stabilized code -->
+      <img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=transparent&title_color=FF69B4&icon_color=D22B2B&text_color=white&hide_border=true&locale=en&cache_seconds=1800" width="300" />
     </td>
     <td width="100" valign="center" align="center">
        <img src="divergent-fist.png" width="80" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏯 <font face="Lexend Deca" color="#FF69B4">DOMAIN EXPANSION: MISSIONS</font>
