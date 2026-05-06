@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- HEADER: Image & Text Side-by-Side -->
+<!-- HEADER: ID Card Style with Rounded Corners -->
 <table border="0">
   <tr>
-    <td width="150" valign="center">
-       <img src="black-flash.png" width="150" />
+    <td width="130" valign="center">
+       <img src="black-flash.png" width="130" style="border-radius:15px;" />
     </td>
     <td valign="center" align="left">
        <h1><font face="Lexend Deca">MOHAMED AFNNAN</font></h1>
-       <h3><font face="Lexend Deca">Google Student Ambassador | IoT Specialist</font></h3>
-       <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&weight=800&size=18&pause=1000&color=FF69B4&center=false&vCenter=true&width=400&lines=EIE+Student+%40+FISAT;Building+Cursed+Tools+(IoT);Domain+Expansion%3A+IDEA+Lab" />
+       <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&weight=800&size=18&pause=1000&color=FF69B4&center=false&vCenter=true&width=400&lines=Google+Student+Ambassador;EIE+Student+%40+FISAT;Building+Cursed+Tools+(IoT)" />
     </td>
   </tr>
 </table>
@@ -18,8 +17,8 @@
 
 <!-- CONNECT SECTION -->
 <p align="center">
-<a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" /></a>
-<a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" height="20" /></a>
+<a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" /></a>
+<a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" height="22" /></a>
 </p>
 
 ---
@@ -28,25 +27,25 @@
 <img src="https://skillicons.dev/icons?i=python,c,js,arduino,raspberrypi,linux,git,ps,blender,ai,pr&theme=dark" height="35" />
 
 ---
-<!-- STATS & DIVERGENT FIST -->
-<!-- STATS & DIVERGENT FIST -->
+
+<!-- STATS & DIVERGENT FIST: Rounded Accents -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="350" valign="top">
+    <td width="330" valign="top">
       <h4><font face="Lexend Deca" color="#FF69B4">📊 SORCERER RANKING</font></h4>
-      <!-- Alternative Stable Stats -->
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true" width="300" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true" width="310" style="border-radius:10px;" />
     </td>
     <td width="100" valign="center" align="center">
-       <img src="divergent-fist.png" width="80" />
+       <img src="divergent-fist.png" width="85" style="border-radius:12px;" />
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🏯 <font face="Lexend Deca" color="#FF69B4">DOMAIN EXPANSION: MISSIONS</font>
 <p align="left">
-<img src="cursor-head.png" width="30" align="right" />
+<img src="cursor-head.png" width="35" align="right" style="border-radius:50%;" />
   
 *   **Google Student Ambassador** | FISAT Chapter
 *   **IoT Specialist** | AICTE IDEA Lab
@@ -56,15 +55,15 @@
 
 ---
 
-<!-- SNAKE ANIMATION -->
-### 🐍 <font face="Lexend Deca" color="#FF69B4">CONTRIBUTION SNAKE</font>
-<!-- This will only show if your GitHub Action is running and saving to the 'output' branch -->
-<img src="https://raw.githubusercontent.com/mohamedafnnan/mohamedafnnan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- SNAKE ANIMATION: Rounded Container -->
+<div style="border-radius:15px; overflow:hidden;">
+  <img src="https://raw.githubusercontent.com/mohamedafnnan/mohamedafnnan/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
 <br>
 
-<!-- FOOTER: Tiny finisher -->
-<img src="yuji-rage.png" width="120" />
+<!-- FOOTER: Subtle Rounded Finisher -->
+<img src="yuji-rage.png" width="130" style="border-radius:10px;" />
 
 <br>
 
