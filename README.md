@@ -6,23 +6,29 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="35%" valign="top" align="left">
-<h4><font color="#00D4FF">〔 📜 CURSED RECORDS 〕</font></h4>
-<code>$ cat /var/log/eie101</code><br>
+<td width="30%" valign="top" align="left">
+<h4><font color="#00D4FF">〔 🗞️ METRON NEWSLETTER 〕</font></h4>
+<code>$ tail -n 5 /logs/newsletter.feed</code><br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
-<td width="65%" align="center" valign="middle">
-<img src="eie101%20logo%20adjusted.png" width="90%" />
+<td width="40%" align="center" valign="middle">
+<img src="eie101%20logo%20adjusted.png" width="75%" />
 <br>
-<code>DESIGNATION: EIE101-CORE-UNIT</code>
+<code>UNIT-ID: EIE101-BLUEPRINT</code>
+</td>
+<td width="30%" valign="top" align="right">
+<h4><font color="#FF69B4">〔 ⚡ SYSTEM VITALITY 〕</font></h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="100%" />
+<br>
+<img src="https://img.shields.io/badge/CORE_TEMP-OPTIMIZED-39E09B?style=for-the-badge&logo=target" />
 </td>
 </tr>
 </table>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=INITIATING+BLACK+FLASH+REACTION;SYSTEMS+OPERATIONAL+@+FISAT;GOOGLE+STUDENT+AMBASSADOR+ACTIVE;IOT+SPECIALIST+LEVEL:+SPECIAL+GRADE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=INITIATING+BLACK+FLASH+REACTION;SYSTEMS+OPERATIONAL+@+FISAT;METRON+NEWSLETTER+EDITOR+ACTIVE;IOT+SPECIALIST+LEVEL:+SPECIAL+GRADE)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,7 +39,7 @@
 <tr>
 <td width="75%" valign="top">
 <b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
-<code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor <br>
+<code>Primary:</code> Google Student Ambassador • IoT Specialist • Metron Newsletter Editor <br>
 <code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
 <br><br>
 <div align="left">
@@ -77,8 +83,8 @@
 </tr>
 <tr>
 <td width="50%">
-<b><font color="white">[ 🟣 ] SUB-EDITOR @ METRON</font></b><br>
-<code>>_ Technical Layouts & Editorial Flow.</code>
+<b><font color="white">[ 🟣 ] METRON NEWSLETTER EDITOR</font></b><br>
+<code>>_ Orchestrating technical publications.</code>
 </td>
 <td width="50%">
 <b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE</font></b><br>
@@ -103,19 +109,14 @@
 <b>RANK: SPECIAL GRADE</b>
 </td>
 <td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF" width="100%" />
 </td>
 </tr>
 </table>
 
 <br>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF" width="100%" /></td>
-<td width="50%"><img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=3&margin-w=10" width="100%" /></td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=6&margin-w=10" width="100%" />
 
 <br>
 
