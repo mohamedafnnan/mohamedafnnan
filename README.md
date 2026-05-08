@@ -6,11 +6,10 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="30%" valign="top" align="left">
+   <td width="30%" valign="top" align="left">
       <h4><font color="#00D4FF">〔 📜 CURSED RECORDS 〕</font></h4>
       <code>$ cat /var/log/eie101</code>
       <br>
-*Fetching technical manuscripts from the void...*
 <br>
       <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
     </td>
