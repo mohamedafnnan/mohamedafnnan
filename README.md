@@ -12,13 +12,11 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
-
 <td width="45%" align="center" valign="middle">
 <img src="eie101%20logo%20adjusted.png" width="100%" />
 <br>
 <code>DESIGNATION: EIE101-CORE-UNIT</code>
 </td>
-
 <td width="25%" align="right" valign="top">
 <img src="yuji-body.png" width="180" />
 </td>
@@ -37,8 +35,8 @@
 <table width="100%" border="0">
 <tr>
 <td width="70%" valign="top">
-<b>Mohamed Afnnan</b> | EIE Student @ FISAT (2025-2029) <br>
-<code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor <br>
+<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 54, 207, 208, 209] <br>
+[cite_start]<code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor [cite: 52, 106, 148] <br>
 <code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
 <br><br>
 <div align="left">
@@ -73,21 +71,21 @@
 <tr>
 <td width="50%">
 <b><font color="#FF69B4">[ 🔴 ] GOOGLE AMBASSADOR</font></b><br>
-<code>>_ Scaling AI Infrastructure at FISAT.</code>
+[cite_start]<code>>_ Scaling AI Infrastructure at FISAT.</code> [cite: 52, 53, 54]
 </td>
 <td width="50%">
-<b><font color="#00D4FF">[ 🔵 ] IoT SPECIALIST @ AICTE IDEA LAB</font></b><br>
-<code>>_ Prototyping Grade 1 Embedded Solutions.</code>
+<b><font color="#00D4FF">[ 🔵 ] IoT SPECIALIST @ IDEA LAB</font></b><br>
+[cite_start]<code>>_ Prototyping Grade 1 Embedded Solutions.</code> [cite: 148, 151, 153]
 </td>
 </tr>
 <tr>
 <td width="50%">
-<b><font color="white">[ 🟣 ] SUB-EDITOR @ METRON MAGAZINE</font></b><br>
-<code>>_ Technical Layouts & Editorial Flow.</code>
+<b><font color="white">[ 🟣 ] SUB-EDITOR @ METRON</font></b><br>
+[cite_start]<code>>_ Technical Layouts & Editorial Flow.</code> [cite: 110, 111]
 </td>
 <td width="50%">
-<b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE @ ISA FISAT</font></b><br>
-<code>>_ Instrumentation & Automation Strategy.</code>
+<b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE</font></b><br>
+[cite_start]<code>>_ Instrumentation & Automation Strategy.</code> [cite: 66, 67, 68]
 </td>
 </tr>
 </table>
