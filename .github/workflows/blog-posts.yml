@@ -1,8 +1,8 @@
 name: EIE101 Feed Update
 on:
   schedule:
-    - cron: '0 */6 * * *' # Updates every 6 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch: # Manual trigger
 
 jobs:
   update-readme-with-blog:
@@ -16,7 +16,6 @@ jobs:
         with:
           feed_list: "https://eie101.blogspot.com/feeds/posts/default?alt=rss"
           max_post_count: 5
-          # This template adds the hacker/terminal vibe to your links
-          template: "$newline > [ $title ]($url) "
+          template: "$newline >_ [$title]($url)"
           committer_username: "afnnan-bot"
           committer_email: "afnnan.dev@gmail.com"
