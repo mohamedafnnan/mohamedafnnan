@@ -5,25 +5,24 @@
 <br>
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="30%" valign="top" align="left">
-      <h4><font color="#00D4FF">〔 📜 CURSED RECORDS 〕</font></h4>
-      <code>$ cat /var/log/eie101</code>
-      <br>
+<tr>
+<td width="30%" valign="top" align="left">
+<h4><font color="#00D4FF">〔 📜 CURSED RECORDS 〕</font></h4>
+<code>$ cat /var/log/eie101</code><br>
 <br>
-      <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
-    </td>
-    
-    <td width="45%" align="center" valign="middle">
-      <img src="eie101 logo adjusted.png" width="100%" style="border: 2px solid #00D4FF; border-radius: 10px;" />
-      <br>
-      <code>DESIGNATION: EIE101-CORE-UNIT</code>
-    </td>
+<img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
+</td>
 
-    <td width="25%" align="right" valign="top">
-      <img src="yuji-body.png" width="180" />
-    </td>
-  </tr>
+<td width="45%" align="center" valign="middle">
+<img src="eie101%20logo%20adjusted.png" width="100%" />
+<br>
+<code>DESIGNATION: EIE101-CORE-UNIT</code>
+</td>
+
+<td width="25%" align="right" valign="top">
+<img src="yuji-body.png" width="180" />
+</td>
+</tr>
 </table>
 
 <br>
@@ -36,21 +35,21 @@
 
 ### `$ systemctl status afnnan.identity`
 <table width="100%" border="0">
-  <tr>
-    <td width="70%" valign="top">
-      <b>Mohamed Afnnan</b> | EIE Student @ FISAT (2025-2029) <br>
-      <code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor <br>
-      <code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
-      <br><br>
-      <div align="left">
-        <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-        <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree" /></a>
-      </div>
-    </td>
-    <td width="30%" align="center">
-       <img src="yuji-rage.png" width="140" />
-    </td>
-  </tr>
+<tr>
+<td width="70%" valign="top">
+<b>Mohamed Afnnan</b> | EIE Student @ FISAT (2025-2029) <br>
+<code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor <br>
+<code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
+<br><br>
+<div align="left">
+<a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree" /></a>
+</div>
+</td>
+<td width="30%" align="center">
+<img src="yuji-rage.png" width="140" />
+</td>
+</tr>
 </table>
 
 ---
@@ -71,26 +70,26 @@
 ## 🏯 MISSION LOGS (ACTIVE QUESTS)
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <b><font color="#FF69B4">[ 🔴 ] GOOGLE AMBASSADOR</font></b><br>
-      <code>>_ Scaling AI Infrastructure at FISAT.</code>
-    </td>
-    <td width="50%">
-      <b><font color="#00D4FF">[ 🔵 ] IoT SPECIALIST @ AICTE IDEA LAB</font></b><br>
-      <code>>_ Prototyping Grade 1 Embedded Solutions.</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b><font color="white">[ 🟣 ] SUB-EDITOR @ METRON MAGAZINE</font></b><br>
-      <code>>_ Technical Layouts & Editorial Flow.</code>
-    </td>
-    <td width="50%">
-      <b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE @ ISA FISAT</font></b><br>
-      <code>>_ Instrumentation & Automation Strategy.</code>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<b><font color="#FF69B4">[ 🔴 ] GOOGLE AMBASSADOR</font></b><br>
+<code>>_ Scaling AI Infrastructure at FISAT.</code>
+</td>
+<td width="50%">
+<b><font color="#00D4FF">[ 🔵 ] IoT SPECIALIST @ AICTE IDEA LAB</font></b><br>
+<code>>_ Prototyping Grade 1 Embedded Solutions.</code>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<b><font color="white">[ 🟣 ] SUB-EDITOR @ METRON MAGAZINE</font></b><br>
+<code>>_ Technical Layouts & Editorial Flow.</code>
+</td>
+<td width="50%">
+<b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE @ ISA FISAT</font></b><br>
+<code>>_ Instrumentation & Automation Strategy.</code>
+</td>
+</tr>
 </table>
 
 ---
@@ -100,27 +99,27 @@
 <div align="center">
 
 <table border="0" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=00D4FF" width="100%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="divergent-fist.png" width="100" /><br>
-      <b>RANK: SPECIAL GRADE</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="100%" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=00D4FF" width="100%" />
+</td>
+<td align="center" width="33%">
+<img src="divergent-fist.png" width="100" /><br>
+<b>RANK: SPECIAL GRADE</b>
+</td>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="100%" />
+</td>
+</tr>
 </table>
 
 <br>
 
 <table border="0" width="100%">
-  <tr>
-    <td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF" width="100%" /></td>
-    <td width="50%"><img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=3&margin-w=10" width="100%" /></td>
-  </tr>
+<tr>
+<td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF" width="100%" /></td>
+<td width="50%"><img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=3&margin-w=10" width="100%" /></td>
+</tr>
 </table>
 
 <br>
