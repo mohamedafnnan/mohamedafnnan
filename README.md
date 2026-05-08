@@ -35,8 +35,8 @@
 <table width="100%" border="0">
 <tr>
 <td width="70%" valign="top">
-<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 54, 207, 208, 209] <br>
-[cite_start]<code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor [cite: 52, 106, 148] <br>
+<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 2] <br>
+[cite_start]<code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor [cite: 52, 148, 110] <br>
 <code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
 <br><br>
 <div align="left">
@@ -71,11 +71,11 @@
 <tr>
 <td width="50%">
 <b><font color="#FF69B4">[ 🔴 ] GOOGLE AMBASSADOR</font></b><br>
-[cite_start]<code>>_ Scaling AI Infrastructure at FISAT.</code> [cite: 52, 53, 54]
+[cite_start]<code>>_ Scaling AI Infrastructure at FISAT.</code> [cite: 52, 54]
 </td>
 <td width="50%">
 <b><font color="#00D4FF">[ 🔵 ] IoT SPECIALIST @ IDEA LAB</font></b><br>
-[cite_start]<code>>_ Prototyping Grade 1 Embedded Solutions.</code> [cite: 148, 151, 153]
+[cite_start]<code>>_ Prototyping Grade 1 Embedded Solutions.</code> [cite: 148, 151]
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@
 </td>
 <td width="50%">
 <b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE</font></b><br>
-[cite_start]<code>>_ Instrumentation & Automation Strategy.</code> [cite: 66, 67, 68]
+[cite_start]<code>>_ Instrumentation & Automation Strategy.</code> [cite: 66, 69]
 </td>
 </tr>
 </table>
@@ -140,7 +140,7 @@ $ cat goals.txt
 
 $ tail -f /var/log/personality.log
   - [DEBUG] Spent 5 hours debugging a circuit just to find a wire issue.
-  - [INFO] Aesthetic preference: #Blueprint x #JujutsuKaisen.
+  - [INFO] Aesthetic preference: #Blueprint x #JujutsuKaisen. 
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
