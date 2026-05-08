@@ -24,7 +24,7 @@
 *   **Industrial Internet of Things (IIoT)**
 *   **Embedded C & Microcontroller Programming**
 *   **Cursed Tool Development (Hardware Hacking)**
-*   **Digital Content Creation (Metron Magazine)**
+*   **Digital Content Creation (Metron Magazine, LinkedIn Newsletter)**
 
 ---
 
@@ -70,10 +70,10 @@
 ## 🕒 Experience Timeline
 
 *   **[ACTIVE] Google Student Ambassador @ FISAT**
-    *   Conducting workshops on Google Technologies and cloud infrastructure.
-*   **[ACTIVE] IoT Specialist @ AICTE IDEA Lab**
-    *   Developed smart monitoring systems using ESP32 and MQTT protocols.
-*   **[PAST] Content Strategist @ Metron Magazine**
+    *   Conducting workshops on Google Technologies and AI infrastructure.
+*   **[ACTIVE] ISA Representative @ International Society of Automation FISAT Chapter**
+    *   Contributing in workshops, scheduling and overall ISA FISAT interests.
+*   **[ACTIVE] Editor @ Metron Magazine**
     *   Designed layout templates and managed editorial workflows.
 
 ---
@@ -81,7 +81,7 @@
 ## 💬 Terminal Shell
 ```bash
 > cat goals.txt
-  [1] Master the art of the "Black Flash" (Perfect IoT Execution)
+  [1] Master the art of the "Black Flash" (Perfect instrumental Execution)
   [2] Build a fully autonomous smart-home ecosystem
   [3] Bridge the gap between EIE and modern AI research
 
@@ -90,4 +90,4 @@
   - My design aesthetic is "Neon Hacker" meets "Jujutsu High."
 
 > echo $STATUS
-  Open to collaboration, IoT projects, and Cursed Energy!
+  Open to collaboration, projects, and Cursed Energy!
