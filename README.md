@@ -1,34 +1,34 @@
 <div align="center">
 
-<!-- TOP HEADER CAPSULE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=DOMAIN%20EXPANSION&fontSize=70&animation=fadeIn&fontColor=FF69B4&desc=AFNNAN%20//%20SPECIAL%20GRADE%20ENGINEER&descSize=20&descAlignY=75" width="100%" />
+<!-- HEADER: THE VOID -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=MOHAMED%20AFNNAN&fontSize=80&animation=fadeIn&fontColor=00D4FF&desc=DOMAIN%20EXPANSION:%20INFINITE%20INNOVATION&descSize=22&descAlignY=75" width="100%" />
 
 <br>
 
-<!-- THE TERMINAL TITLE -->
-# <font face="Lexend Deca" color="#00D4FF">〔 MOHAMED AFNNAN 〕</font>
-> **`STATUS: SYNCHRONIZING CURSED ENERGY...`**
+<!-- TERMINAL OVERLAY -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=%E2%9E%A4+INITIALIZING+CURSED+TECH...;%E2%9E%A4+SYNCHRONIZING+EIE+ENGINE;%E2%9E%A4+BLACK+FLASH+REACHED+120%25;%E2%9E%A4+SYSTEM+STATUS:+GOD+MODE)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=EIE+STUDENT+@+FISAT;GOOGLE+STUDENT+AMBASSADOR;IOT+SPECIALIST;BUILDING+CURSED+TOOLS;BLACK+FLASH+INITIATED)](https://git.io/typing-svg)
+<br>
 
-<!-- MAIN AVATAR SECTION -->
-<table border="0">
+<!-- PROFILE GRID -->
+<table border="0" cellpadding="10">
   <tr>
-    <td align="center" width="300">
-      <img src="black-flash.png" width="250" />
-      <br>
-      <img src="https://img.shields.io/badge/RANK-SPECIAL_GRADE-FF69B4?style=for-the-badge&logo=target&logoColor=white" />
+    <td width="33%" align="center">
+      <img src="black-flash.png" width="280" style="border-radius: 20px;" />
+      <br><b>〔 GRADE: SPECIAL 〕</b>
     </td>
-    <td align="left">
-      <h3>$ sudo systemctl status afnnan.identity</h3>
-      <code>● afnnan.service - Sorcerer Engineer Profile</code><br>
-      <code>   Active: active (running) since 2025/01/01</code><br>
-      <code>   Location: FISAT, Kerala, India</code><br>
-      <code>   Task: Bridging the gap between AI & Embedded Systems</code><br>
-      <code>   Current_Mana: ██████████ 100%</code>
-      <br><br>
-      <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/Archives-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+    <td width="67%" valign="top">
+      <h3>$ whoami --verbose</h3>
+      <p><b>Name:</b> Mohamed Afnnan <br>
+      <b>Class:</b> Electronics & Instrumentation Engineer <br>
+      <b>Base:</b> Federal Institute of Science And Technology (FISAT) <br>
+      <b>Affiliation:</b> Google · AICTE · ISA · Metron</p>
+      <hr>
+      <p><i>"I don't just write code; I weave cursed energy into silicon. My goal is to bridge the gap between human intuition and machine precision."</i></p>
+      <div align="center">
+        <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/NEURAL_LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCE_VOID-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+      </div>
     </td>
   </tr>
 </table>
@@ -37,78 +37,84 @@
 
 ---
 
-## 🛠️ INNATE TECHNIQUES (TECH STACK)
+## 🛠️ INNATE TECHNIQUES (TACTICAL LOADOUT)
 
 <div align="center">
 
-| **SYSTEM DOMAIN** | **UTILITIES & ARTIFACTS** | **MASTERY** |
-| :--- | :--- | :--- |
-| **Logic Core** | ![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,bash,linux,git) | `[||||||||--]` |
-| **Hardware Soul** | ![Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,kicad,latex,matlab) | `[|||||||---]` |
-| **Visual Binding** | ![Skills](https://skillicons.dev/icons?i=ps,pr,ai,blender,figma) | `[|||||||||-]` |
+<table border="0">
+  <tr>
+    <td><b>CORE MANIPULATION</b></td>
+    <td><b>HARDWARE SUMMONING</b></td>
+    <td><b>VISUAL BINDING</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,linux,git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,kicad,latex,matlab" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ps,pr,ai,blender,figma" /></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🏯 DOMAIN EXPANSION: ACTIVE MISSIONS
+## 🌀 DOMAIN EXPANSION: MISSION LOGS
 
-<div align="left">
+<div align="center">
 
-#### 🔴 **MISSION: GOOGLE AMBASSADOR**
-> `Exec:` Leading developer communities & AI workshops at FISAT.
-> `Objective:` Scale tech outreach via Google Cloud & Firebase.
-
-#### 🔵 **MISSION: IoT SPECIALIST @ AICTE IDEA LAB**
-> `Exec:` Prototyping industrial-grade embedded solutions.
-> `Objective:` Perfecting real-time sensor fusion & PCB layouts.
-
-#### 🟣 **MISSION: METRON MAGAZINE EDITOR**
-> `Exec:` Managing editorial flow & visual storytelling.
-> `Objective:` Defining the aesthetic of technical journalism.
+| STATUS | MISSION TYPE | OBJECTIVE |
+| :---: | :--- | :--- |
+| <img src="https://img.shields.io/badge/-ACTIVE-success?style=flat-square" /> | **Google Ambassador** | `Deploy AI Infra & Workshops` |
+| <img src="https://img.shields.io/badge/-ACTIVE-success?style=flat-square" /> | **IoT Specialist** | `AICTE IDEA Lab Rapid Prototyping` |
+| <img src="https://img.shields.io/badge/-SYNCING-blue?style=flat-square" /> | **Metron Editor** | `Visual Storytelling & Editorial Lead` |
+| <img src="https://img.shields.io/badge/-READY-blueviolet?style=flat-square" /> | **ISA Rep** | `Instrumentation Automation Strategy` |
 
 </div>
 
 ---
 
-## 📊 SORCERER RANKING (REAL-TIME STATS)
+## 📊 COMBAT ANALYTICS (SORCERER RANK)
 
 <div align="center">
 
-<!-- TOP ROW STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=00D4FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF&fire=FF69B4" width="48%" />
+<!-- GITHUB STATS GRID -->
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=00D4FF" width="400" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="300" /></td>
+  </tr>
+</table>
 
 <br>
 
-<!-- THE DIVERGENT FIST LOGO -->
 <img src="divergent-fist.png" width="120" />
 
 <br>
 
-### 🐍 CURSED ENERGY FLOW (ACTIVITY)
+<!-- CONTRIBUTION SNAKE -->
 <img src="https://raw.githubusercontent.com/mohamedafnnan/mohamedafnnan/output/github-contribution-grid-snake.svg" width="100%" />
 
 <br>
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=4&margin-w=10" width="90%" />
+<!-- TROPHY VOID -->
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=4&margin-w=10" width="100%" />
 
 </div>
 
 ---
 
-## 💬 TERMINAL OVERRIDE
+## 🗨️ TERMINAL OVERRIDE (HIDDEN LOGS)
+
 ```zsh
-$ cat goals.txt
-  1. Master the "Black Flash" of Hardware Interrupts ⚡
-  2. Architect a fully autonomous smart-home ecosystem 🏠
-  3. Research the intersection of EIE and Neural Networks 🧠
+$ sudo cat /proc/afnnan/mem
+> [MEMORY_DUMP]
+> Current_Focus: "Autonomous Home Ecosystems"
+> Latest_Achievement: "Black Flash sync @ FISAT AI Summit"
+> Design_Logic: "Brutalist Neon / Cyberpunk Aesthetic"
 
-$ tail -f /var/log/personality.log
-  - [DEBUG] Spent 6 hours fixing a baud rate mismatch. No regrets.
-  - [INFO] Aesthetic preference: #Cyberpunk + #JujutsuKaisen.
-  - [WARN] Low caffeine levels detected. Re-routing to FISAT canteen.
+$ git commit -m "Exorcised 42 hardware bugs"
+[master 7b3e9a1] 42 files changed, 1000 insertions(+), 0 deletions(-)
+  - Resolved baud rate desync in ESP32 cluster.
+  - Finalized PCB layout for 'Cursed Tool' prototype.
 
-$ echo $STATUS
-  "The only way to win is to optimize. Open for collaboration."
+$ echo "Domain Expansion: Infinite Innovation."
