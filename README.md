@@ -16,7 +16,7 @@
 
 ### `$ whoami`
 > **Mohamed Afnnan**
-> Electronics & Instrumentation Engineering Student @ FISAT (2022-2026)
+> Electronics & Instrumentation Engineering Student @ FISAT (2025-2029)
 > Google Student Ambassador · IoT Specialist · Embedded Systems Enthusiast
 > Building smart hardware solutions and exploring the intersection of AI and IoT.
 
