@@ -8,7 +8,7 @@
 <tr>
 <td width="30%" valign="top" align="left">
 <h4><font color="#00D4FF">〔 🗞️ METRON NEWSLETTER 〕</font></h4>
-<code>$ tail -n 5 /logs/newsletter.feed</code><br>
+<code>$ tail -n 5 /logs/metron.editor</code><br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
@@ -16,22 +16,22 @@
 <td width="35%" align="center" valign="middle">
 <img src="eie101%20logo%20adjusted.png" width="70%" />
 <br>
-<code>UNIT-ID: EIE101-CORE</code>
+<code>DESIGNATION: EIE101-CORE</code>
 </td>
 
 <td width="35%" valign="top" align="right">
 <h4><font color="#FF69B4">〔 ⚡ SYSTEM VITALITY 〕</font></h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="100%" />
 <br>
-<img src="https://img.shields.io/badge/OVERCLOCK-ACTIVE-FF69B4?style=for-the-badge&logo=fastly&logoColor=white" />
-<img src="https://img.shields.io/badge/METRON_SYNC-STABLE-00D4FF?style=for-the-badge&logo=rss&logoColor=white" />
+<img src="https://img.shields.io/badge/GSA-ACTIVE-39E09B?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT_SPEC-LEVEL_1-00D4FF?style=for-the-badge&logo=arduino&logoColor=white" />
 </td>
 </tr>
 </table>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=INITIATING+BLACK+FLASH+REACTION;SYSTEMS+OPERATIONAL+@+FISAT;METRON+NEWSLETTER+CHIEF+EDITOR;IOT+SPECIALIST+LEVEL:+SPECIAL+GRADE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=INITIATING+BLACK+FLASH+REACTION;GOOGLE+STUDENT+AMBASSADOR+@+FISAT;METRON+NEWSLETTER+CHIEF+EDITOR;EIE+101:+MAKING+INSTRUMENTATION+LESS+PAINFUL)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,9 +41,9 @@
 <table width="100%" border="0">
 <tr>
 <td width="75%" valign="top">
-<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 2, 24, 207] <br>
-[cite_start]<code>Primary:</code> Google Student Ambassador • IoT Specialist • Metron Editor [cite: 26, 93, 110] <br>
-<code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
+<b>Mohamed Afnnan</b> | EIE Student @ FISAT (2025-2029) <br>
+<code>Primary:</code> Google Student Ambassador • IoT Specialist • Metron Editor <br>
+<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i>
 <br><br>
 <div align="left">
 <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
@@ -52,6 +52,46 @@
 </td>
 <td width="25%" align="center">
 <img src="yuji-rage.png" width="140" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ INNATE TECHNIQUES (SYSTEM LOADOUT)
+
+<div align="center">
+
+| 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
+| :--- | :--- | :--- |
+| ![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,kicad,latex,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,pr,ai,blender,figma,github) |
+| `Status: Optimized` | `Status: Functional` | `Status: Creative` |
+
+</div>
+
+---
+
+## 🏯 MISSION LOGS (ACTIVE QUESTS)
+
+<table width="100%">
+<tr>
+<td width="50%">
+<b><font color="#FF69B4">[ 🔴 ] GOOGLE AMBASSADOR</font></b><br>
+<code>>_ Leading campus outreach at FISAT.</code>
+</td>
+<td width="50%">
+<b><font color="#00D4FF">[ 🔵 ] IoT SPECIALIST @ IDEA LAB</font></b><br>
+<code>>_ Designing 'Hairpin Bend Traffic Systems'.</code>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<b><font color="white">[ 🟣 ] METRON NEWSLETTER EDITOR</font></b><br>
+<code>>_ Managing department-wide documentation.</code>
+</td>
+<td width="50%">
+<b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE</font></b><br>
+<code>>_ Coordinating technical workshops.</code>
 </td>
 </tr>
 </table>
@@ -94,14 +134,13 @@
 
 ## 🗨️ TERMINAL OVERRIDE
 ```zsh
-$ cat goals.txt
-  1. Master the "Black Flash" of Hardware Interrupts ⚡
-  2. Architect a fully autonomous smart-home ecosystem 🏠
-  3. Research the intersection of EIE and Neural Networks 🧠
+$ cat eie101_manifesto.txt
+  "Instrumentation is the most critical, yet least visible layer."
+  "Building efficiency where precision engineering meets resource cost."
 
 $ tail -f /var/log/personality.log
-  - [DEBUG] Spent 5 hours debugging a circuit just to find a wire issue.
-  - [INFO] Aesthetic preference: #Blueprint x #JujutsuKaisen.
+  - [INFO] Current Project: Hairpin Bend Traffic System.
+  - [INFO] Platform: EIE 101 - Making instrumentation less painful.
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
