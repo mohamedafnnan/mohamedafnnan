@@ -6,19 +6,16 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="30%" valign="top" align="left">
+<td width="35%" valign="top" align="left">
 <h4><font color="#00D4FF">〔 📜 CURSED RECORDS 〕</font></h4>
 <code>$ cat /var/log/eie101</code><br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
-<td width="45%" align="center" valign="middle">
-<img src="eie101%20logo%20adjusted.png" width="100%" />
+<td width="65%" align="center" valign="middle">
+<img src="eie101%20logo%20adjusted.png" width="90%" />
 <br>
 <code>DESIGNATION: EIE101-CORE-UNIT</code>
-</td>
-<td width="25%" align="right" valign="top">
-<img src="yuji-body.png" width="180" />
 </td>
 </tr>
 </table>
@@ -34,9 +31,9 @@
 ### `$ systemctl status afnnan.identity`
 <table width="100%" border="0">
 <tr>
-<td width="70%" valign="top">
-<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 2] <br>
-[cite_start]<code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor [cite: 52, 148, 110] <br>
+<td width="75%" valign="top">
+<b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
+<code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor <br>
 <code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
 <br><br>
 <div align="left">
@@ -44,7 +41,7 @@
 <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree" /></a>
 </div>
 </td>
-<td width="30%" align="center">
+<td width="25%" align="center">
 <img src="yuji-rage.png" width="140" />
 </td>
 </tr>
@@ -71,21 +68,21 @@
 <tr>
 <td width="50%">
 <b><font color="#FF69B4">[ 🔴 ] GOOGLE AMBASSADOR</font></b><br>
-[cite_start]<code>>_ Scaling AI Infrastructure at FISAT.</code> [cite: 52, 54]
+<code>>_ Scaling AI Infrastructure at FISAT.</code>
 </td>
 <td width="50%">
 <b><font color="#00D4FF">[ 🔵 ] IoT SPECIALIST @ IDEA LAB</font></b><br>
-[cite_start]<code>>_ Prototyping Grade 1 Embedded Solutions.</code> [cite: 148, 151]
+<code>>_ Prototyping Grade 1 Embedded Solutions.</code>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <b><font color="white">[ 🟣 ] SUB-EDITOR @ METRON</font></b><br>
-[cite_start]<code>>_ Technical Layouts & Editorial Flow.</code> [cite: 110, 111]
+<code>>_ Technical Layouts & Editorial Flow.</code>
 </td>
 <td width="50%">
 <b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE</font></b><br>
-[cite_start]<code>>_ Instrumentation & Automation Strategy.</code> [cite: 66, 69]
+<code>>_ Instrumentation & Automation Strategy.</code>
 </td>
 </tr>
 </table>
@@ -140,7 +137,7 @@ $ cat goals.txt
 
 $ tail -f /var/log/personality.log
   - [DEBUG] Spent 5 hours debugging a circuit just to find a wire issue.
-  - [INFO] Aesthetic preference: #Blueprint x #JujutsuKaisen. 
+  - [INFO] Aesthetic preference: #Blueprint x #JujutsuKaisen.
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
