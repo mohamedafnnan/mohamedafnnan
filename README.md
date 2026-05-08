@@ -10,7 +10,7 @@
       <h4><font color="#00D4FF">〔 📜 CURSED RECORDS 〕</font></h4>
       <code>$ cat /var/log/eie101</code>
       <br>
-*Fetching technical manuscripts...*
+*Fetching technical manuscripts from the void...*
 <br>
       <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
     </td>
@@ -42,6 +42,11 @@
       <b>Mohamed Afnnan</b> | EIE Student @ FISAT (2025-2029) <br>
       <code>Primary:</code> Google Student Ambassador • IoT Specialist • Technical Editor <br>
       <code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
+      <br><br>
+      <div align="left">
+        <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+        <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree" /></a>
+      </div>
     </td>
     <td width="30%" align="center">
        <img src="yuji-rage.png" width="140" />
@@ -77,6 +82,16 @@
       <code>>_ Prototyping Grade 1 Embedded Solutions.</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <b><font color="white">[ 🟣 ] SUB-EDITOR @ METRON MAGAZINE</font></b><br>
+      <code>>_ Technical Layouts & Editorial Flow.</code>
+    </td>
+    <td width="50%">
+      <b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE @ ISA FISAT</font></b><br>
+      <code>>_ Instrumentation & Automation Strategy.</code>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -97,6 +112,15 @@
     <td align="center" width="33%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="100%" />
     </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF" width="100%" /></td>
+    <td width="50%"><img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=3&margin-w=10" width="100%" /></td>
   </tr>
 </table>
 
