@@ -12,23 +12,26 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
-<td width="40%" align="center" valign="middle">
-<img src="eie101%20logo%20adjusted.png" width="75%" />
+
+<td width="35%" align="center" valign="middle">
+<img src="eie101%20logo%20adjusted.png" width="70%" />
 <br>
-<code>UNIT-ID: EIE101-BLUEPRINT</code>
+<code>UNIT-ID: EIE101-CORE</code>
 </td>
-<td width="30%" valign="top" align="right">
+
+<td width="35%" valign="top" align="right">
 <h4><font color="#FF69B4">〔 ⚡ SYSTEM VITALITY 〕</font></h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="100%" />
 <br>
-<img src="https://img.shields.io/badge/CORE_TEMP-OPTIMIZED-39E09B?style=for-the-badge&logo=target" />
+<img src="https://img.shields.io/badge/OVERCLOCK-ACTIVE-FF69B4?style=for-the-badge&logo=fastly&logoColor=white" />
+<img src="https://img.shields.io/badge/METRON_SYNC-STABLE-00D4FF?style=for-the-badge&logo=rss&logoColor=white" />
 </td>
 </tr>
 </table>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=INITIATING+BLACK+FLASH+REACTION;SYSTEMS+OPERATIONAL+@+FISAT;METRON+NEWSLETTER+EDITOR+ACTIVE;IOT+SPECIALIST+LEVEL:+SPECIAL+GRADE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=INITIATING+BLACK+FLASH+REACTION;SYSTEMS+OPERATIONAL+@+FISAT;METRON+NEWSLETTER+CHIEF+EDITOR;IOT+SPECIALIST+LEVEL:+SPECIAL+GRADE)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,8 +41,8 @@
 <table width="100%" border="0">
 <tr>
 <td width="75%" valign="top">
-<b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
-<code>Primary:</code> Google Student Ambassador • IoT Specialist • Metron Newsletter Editor <br>
+<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 2, 24, 207] <br>
+[cite_start]<code>Primary:</code> Google Student Ambassador • IoT Specialist • Metron Editor [cite: 26, 93, 110] <br>
 <code>Philosophy:</code> <i>"Failing to optimize is a Binding Vow for failure."</i>
 <br><br>
 <div align="left">
@@ -49,46 +52,6 @@
 </td>
 <td width="25%" align="center">
 <img src="yuji-rage.png" width="140" />
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ INNATE TECHNIQUES (SYSTEM LOADOUT)
-
-<div align="center">
-
-| 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
-| :--- | :--- | :--- |
-| ![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,kicad,latex,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,pr,ai,blender,figma,github) |
-| `Status: Optimized` | `Status: Functional` | `Status: Creative` |
-
-</div>
-
----
-
-## 🏯 MISSION LOGS (ACTIVE QUESTS)
-
-<table width="100%">
-<tr>
-<td width="50%">
-<b><font color="#FF69B4">[ 🔴 ] GOOGLE AMBASSADOR</font></b><br>
-<code>>_ Scaling AI Infrastructure at FISAT.</code>
-</td>
-<td width="50%">
-<b><font color="#00D4FF">[ 🔵 ] IoT SPECIALIST @ IDEA LAB</font></b><br>
-<code>>_ Prototyping Grade 1 Embedded Solutions.</code>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<b><font color="white">[ 🟣 ] METRON NEWSLETTER EDITOR</font></b><br>
-<code>>_ Orchestrating technical publications.</code>
-</td>
-<td width="50%">
-<b><font color="blueviolet">[ ⚪ ] ISA REPRESENTATIVE</font></b><br>
-<code>>_ Instrumentation & Automation Strategy.</code>
 </td>
 </tr>
 </table>
