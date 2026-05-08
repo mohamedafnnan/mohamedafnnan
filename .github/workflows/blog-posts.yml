@@ -1,8 +1,8 @@
 name: EIE101 Feed Update
 on:
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
-  workflow_dispatch: # Manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -16,6 +16,8 @@ jobs:
         with:
           feed_list: "https://eie101.blogspot.com/feeds/posts/default?alt=rss"
           max_post_count: 5
+          # ADD THE LINE BELOW TO FIX THE ERROR
+          comment_tag_name: "feed" 
           template: "$newline >_ [$title]($url)"
           committer_username: "afnnan-bot"
           committer_email: "afnnan.dev@gmail.com"
