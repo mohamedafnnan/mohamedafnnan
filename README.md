@@ -61,24 +61,21 @@
 
 <table border="0" width="100%">
 <tr>
-<td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=00D4FF" width="100%" />
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=00D4FF" width="90%" />
 </td>
-<td align="center" width="33%">
-<img src="divergent-fist.png" width="100" /><br>
-<b>RANK: SPECIAL GRADE</b>
-</td>
-<td align="center" width="33%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF" width="100%" />
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF" width="90%" />
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4&langs_count=8" width="80%" />
+<img src="divergent-fist.png" width="120" /><br>
+<b>RANK: SPECIAL GRADE</b>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedafnnan&theme=tokyonight&area=true&hide_border=true&color=FF69B4" width="100%" />
 
