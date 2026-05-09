@@ -6,23 +6,20 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="30%" valign="top" align="left">
+<td width="35%" valign="top" align="left">
 <h4><font color="#00D4FF">〔 🗞️ METRON NEWSLETTER 〕</font></h4>
 <code>$ tail -n 5 /logs/metron.editor</code><br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
 
-<td width="40%" align="center" valign="middle">
-<img src="eie101%20logo%20adjusted.png" width="80%" />
+<td width="65%" align="center" valign="middle">
+<img src="eie101%20logo%20adjusted.png" width="70%" />
 <br>
 <code>DESIGNATION: EIE101-CORE-UNIT</code>
 <br><br>
 <img src="https://img.shields.io/badge/GSA-ACTIVE-39E09B?style=for-the-badge&logo=google&logoColor=white" />
-</td>
-
-<td width="30%" align="right" valign="top">
-<img src="yuji-body.png" width="180" />
+<img src="https://img.shields.io/badge/ISA-REP-00D4FF?style=for-the-badge&logo=target" />
 </td>
 </tr>
 </table>
@@ -63,7 +60,7 @@
 | 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
 | :--- | :--- | :--- |
 | ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma,github) |
-| `Python, C, Shell` | `Arduino, MATLAB` | `PS, AI, Blender` |
+| `Python, C, Git` | `Arduino, MATLAB` | `PS, AI, Blender` |
 
 </div>
 
