@@ -37,9 +37,9 @@
 <table width="100%" border="0">
 <tr>
 <td width="75%" valign="top">
-<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 597, 620] <br>
-[cite_start]<code>Primary Roles:</code> Google Student Ambassador • ISA Representative • Metron Editor [cite: 610, 642, 698] <br>
-[cite_start]<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i> [cite: 423]
+<b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
+<code>Primary Roles:</code> Google Student Ambassador • ISA Representative • Metron Editor <br>
+<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i>
 <br><br>
 <div align="left">
 <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
@@ -55,20 +55,7 @@
 
 ---
 
-## 🛠️ INNATE TECHNIQUES (SKILLS)
-
-<div align="center">
-
-| 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
-| :--- | :--- | :--- |
-| ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma,github) |
-| [cite_start]`Python, C, Shell` [cite: 615] | [cite_start]`Arduino, MATLAB` [cite: 762, 763] | [cite_start]`PS, AI, Blender` [cite: 617, 753] |
-
-</div>
-
----
-
-## 📊 COMBAT ANALYTICS
+## 📊 COMBAT ANALYTICS (SORCERER RANK)
 
 <div align="center">
 
@@ -89,7 +76,33 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4&langs_count=8" width="80%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedafnnan&theme=tokyonight&area=true&hide_border=true&color=FF69B4" width="100%" />
+
+<br>
+
+### 🐍 CURSED ENERGY FLOW (SNAKE)
+<img src="https://raw.githubusercontent.com/mohamedafnnan/mohamedafnnan/output/github-contribution-grid-snake.svg" width="100%" />
+
+<br>
+
 <img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=6&margin-w=10" width="100%" />
+
+</div>
+
+---
+
+## 🛠️ INNATE TECHNIQUES (SKILLS)
+
+<div align="center">
+
+| 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
+| :--- | :--- | :--- |
+| ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma,github) |
+| `Python, C, Shell` | `Arduino, MATLAB` | `PS, AI, Blender` |
 
 </div>
 
@@ -99,8 +112,8 @@
 ```zsh
 $ cat current_mission.txt
   1. Master the "Black Flash" of Hardware Interrupts ⚡
-  2. Deploy Hairpin Bend Traffic Alert System [cite: 543, 692]
-  3. Expand EIE 101 archives [cite: 426, 750]
+  2. Deploy Hairpin Bend Traffic Alert System (IDEA Lab)
+  3. Expand EIE 101 technical archives
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
