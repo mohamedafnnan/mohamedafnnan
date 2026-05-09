@@ -9,17 +9,18 @@
 <td width="35%" valign="top" align="left">
 <h4><font color="#00D4FF">〔 🗞️ METRON NEWSLETTER 〕</font></h4>
 <code>$ tail -n 5 /logs/metron.editor</code><br>
-<br>
+<img src="https://img.shields.io/badge/STATUS-PUBLISHING-39E09B?style=flat-square" /><br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
 
 <td width="65%" align="center" valign="middle">
+<a href="https://eie101.blogspot.com">
 <img src="eie101%20logo%20adjusted.png" width="70%" />
+</a>
 <br>
 <code>DESIGNATION: EIE101-CORE-UNIT</code>
-<br><br>
-<img src="https://img.shields.io/badge/GSA-ACTIVE-39E09B?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/ISA-REP-00D4FF?style=for-the-badge&logo=target" />
+<br>
+<h4><a href="https://eie101.blogspot.com"><font color="#00D4FF">👉 ACCESS THE ARCHIVES: EIE101.BLOGSPOT.COM</font></a></h4>
 </td>
 </tr>
 </table>
@@ -36,12 +37,13 @@
 <table width="100%" border="0">
 <tr>
 <td width="75%" valign="top">
-<b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
-<code>Primary Roles:</code> Google Student Ambassador • IoT Specialist • Metron Editor <br>
-<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i>
+<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 597, 620] <br>
+[cite_start]<code>Primary Roles:</code> Google Student Ambassador • ISA Representative • Metron Editor [cite: 610, 642, 698] <br>
+[cite_start]<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i> [cite: 423]
 <br><br>
 <div align="left">
 <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://eie101.blogspot.com"><img src="https://img.shields.io/badge/BLOG-FF69B4?style=for-the-badge&logo=blogger" /></a>
 <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree" /></a>
 </div>
 </td>
@@ -53,20 +55,20 @@
 
 ---
 
-## 🛠️ VERIFIED LOADOUT (INNATE TECHNIQUES)
+## 🛠️ INNATE TECHNIQUES (SKILLS)
 
 <div align="center">
 
 | 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
 | :--- | :--- | :--- |
 | ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma,github) |
-| `Python, C, Git` | `Arduino, MATLAB` | `PS, AI, Blender` |
+| [cite_start]`Python, C, Shell` [cite: 615] | [cite_start]`Arduino, MATLAB` [cite: 762, 763] | [cite_start]`PS, AI, Blender` [cite: 617, 753] |
 
 </div>
 
 ---
 
-## 📊 COMBAT ANALYTICS (SORCERER RANK)
+## 📊 COMBAT ANALYTICS
 
 <div align="center">
 
@@ -89,23 +91,16 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=6&margin-w=10" width="100%" />
 
-<br>
-
-<img src="black-flash.png" width="180" />
-
-### 🐍 CURSED ENERGY FLOW (ACTIVITY)
-<img src="https://raw.githubusercontent.com/mohamedafnnan/mohamedafnnan/output/github-contribution-grid-snake.svg" width="100%" />
-
 </div>
 
 ---
 
 ## 🗨️ TERMINAL OVERRIDE
 ```zsh
-$ cat goals.txt
+$ cat current_mission.txt
   1. Master the "Black Flash" of Hardware Interrupts ⚡
-  2. Prototype the Hairpin Bend Traffic Alert System 🚗
-  3. Expand the "EIE 101" technical blog library 📚
+  2. Deploy Hairpin Bend Traffic Alert System [cite: 543, 692]
+  3. Expand EIE 101 archives [cite: 426, 750]
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
