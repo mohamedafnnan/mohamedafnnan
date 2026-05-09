@@ -6,21 +6,23 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="35%" valign="top" align="left">
+<td width="40%" valign="top" align="left">
 <h4><font color="#00D4FF">〔 🗞️ METRON NEWSLETTER 〕</font></h4>
 <code>$ tail -n 5 /logs/metron.editor</code><br>
-<img src="https://img.shields.io/badge/STATUS-PUBLISHING-39E09B?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/STATUS-PUBLISHING-39E09B?style=flat-square" />
+<img src="https://img.shields.io/badge/EDITION-EIE_WEEKLY-FF69B4?style=flat-square" />
+<br><br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
 
-<td width="65%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
+<br>
+<font size="6" color="#FF69B4"><b>EIE 101</b></font><br>
+<code>DESIGNATION: CORE-INSTRUMENTATION-UNIT</code>
+<br><br>
 <a href="https://eie101.blogspot.com">
-<img src="eie101%20logo%20adjusted.png" width="70%" alt="EIE 101" />
+<img src="https://img.shields.io/badge/ACCESS_ARCHIVES-EIE101.BLOGSPOT.COM-00D4FF?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
-<br>
-<code>DESIGNATION: EIE101-CORE-UNIT</code>
-<br>
-<h4><a href="https://eie101.blogspot.com"><font color="#00D4FF">👉 ACCESS THE ARCHIVES: EIE101.BLOGSPOT.COM</font></a></h4>
 </td>
 </tr>
 </table>
@@ -36,19 +38,16 @@
 ### `$ systemctl status afnnan.identity`
 <table width="100%" border="0">
 <tr>
-<td width="75%" valign="top">
+<td width="100%" valign="top">
 <b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
-<code>Primary Roles:</code> Google Student Ambassador • ISA Representative • Metron Editor <br>
-<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i>
+<code>Deployment:</code> Google Student Ambassador • ISA Student Representative • Metron Editor <br>
+<code>Specialization:</code> Embedded Systems, IoT, and Process Instrumentation
 <br><br>
 <div align="left">
-<a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://eie101.blogspot.com"><img src="https://img.shields.io/badge/BLOG-FF69B4?style=for-the-badge&logo=blogger" /></a>
-<a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree" /></a>
+<a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/RANK-SPECIAL_GRADE-FF69B4?style=for-the-badge" />
 </div>
-</td>
-<td width="25%" align="center">
-<img src="yuji-rage.png" width="140" alt="Special Grade" />
 </td>
 </tr>
 </table>
@@ -58,6 +57,10 @@
 ## 📊 COMBAT ANALYTICS
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/TECHNIQUE-DIVERGENT_FIST-00D4FF?style=for-the-badge&logo=target" />
+
+<br><br>
 
 <table border="0" width="100%">
 <tr>
@@ -78,10 +81,6 @@
 
 ### 🐍 CURSED ENERGY FLOW
 <img src="https://raw.githubusercontent.com/mohamedafnnan/mohamedafnnan/output/github-contribution-grid-snake.svg" width="100%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=6&margin-w=10" width="100%" />
 
 </div>
 
