@@ -15,7 +15,7 @@
 
 <td width="65%" align="center" valign="middle">
 <a href="https://eie101.blogspot.com">
-<img src="eie101%20logo%20adjusted.png" width="70%" alt="EIE 101 Logo" />
+<img src="eie101%20logo%20adjusted.png" width="70%" alt="EIE 101" />
 </a>
 <br>
 <code>DESIGNATION: EIE101-CORE-UNIT</code>
@@ -48,7 +48,7 @@
 </div>
 </td>
 <td width="25%" align="center">
-<img src="yuji-rage.png" width="140" alt="Status: Enraged" />
+<img src="yuji-rage.png" width="140" alt="Special Grade" />
 </td>
 </tr>
 </table>
@@ -78,6 +78,10 @@
 
 ### 🐍 CURSED ENERGY FLOW
 <img src="https://raw.githubusercontent.com/mohamedafnnan/mohamedafnnan/output/github-contribution-grid-snake.svg" width="100%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedafnnan&theme=tokyonight&no-bg=true&column=6&margin-w=10" width="100%" />
 
 </div>
 
