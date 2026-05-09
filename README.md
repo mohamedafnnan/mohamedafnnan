@@ -8,7 +8,7 @@
 <tr>
 <td width="35%" valign="top" align="left">
 <h4><font color="#00D4FF">〔 🗞️ METRON NEWSLETTER 〕</font></h4>
-<code>$ tail -n 5 /logs/metron.editor</code><br>
+[cite_start]<code>$ tail -n 5 /logs/metron.editor</code> [cite: 500, 698]<br>
 <img src="https://img.shields.io/badge/STATUS-PUBLISHING-39E09B?style=flat-square" /><br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
@@ -20,7 +20,7 @@
 <br>
 <code>DESIGNATION: EIE101-CORE-UNIT</code>
 <br>
-<h4><a href="https://eie101.blogspot.com"><font color="#00D4FF">👉 ACCESS THE ARCHIVES: EIE101.BLOGSPOT.COM</font></a></h4>
+[cite_start]<h4><a href="https://eie101.blogspot.com"><font color="#00D4FF">👉 ACCESS THE ARCHIVES: EIE101.BLOGSPOT.COM</font></a></h4> [cite: 412, 752]
 </td>
 </tr>
 </table>
@@ -37,9 +37,9 @@
 <table width="100%" border="0">
 <tr>
 <td width="75%" valign="top">
-<b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
-<code>Primary Roles:</code> Google Student Ambassador • ISA Representative • Metron Editor <br>
-<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i>
+<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 597, 622] <br>
+[cite_start]<code>Primary Roles:</code> Google Student Ambassador • ISA Representative • Metron Editor [cite: 610, 626] <br>
+[cite_start]<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i> [cite: 423]
 <br><br>
 <div align="left">
 <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-| 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
+| [cite_start]🔵 LOGIC (SW) [cite: 615, 617] | [cite_start]🔴 PHYSICAL (HW) [cite: 616, 762, 763] | [cite_start]🟣 VISUAL (UI/UX) [cite: 617, 755] |
 | :--- | :--- | :--- |
 | ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma,github) |
 | `Python, C, Shell` | `Arduino, MATLAB` | `PS, AI, Blender` |
@@ -109,8 +109,8 @@
 ```zsh
 $ cat current_mission.txt
   1. Master the "Black Flash" of Hardware Interrupts ⚡
-  2. Deploy Hairpin Bend Traffic Alert System (IDEA Lab)
-  3. Expand EIE 101 technical archives
+  2. Deploy Hairpin Bend Traffic Alert System (IDEA Lab) [cite: 692]
+  3. Expand EIE 101 technical archives [cite: 752]
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
