@@ -6,24 +6,25 @@
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="30%" valign="top" align="left">
+<td width="33%" valign="top" align="left">
 <h4><font color="#00D4FF">〔 🗞️ METRON NEWSLETTER 〕</font></h4>
 <code>$ tail -n 5 /logs/metron.editor</code><br>
-<img src="https://img.shields.io/badge/STATUS-PUBLISHING-39E09B?style=flat-square" /><br>
+<br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
 </td>
 
-<td width="35%" align="center" valign="middle">
-<img src="eie101%20logo%20adjusted.png" width="70%" />
-<br>
-<code>DESIGNATION: EIE101-CORE</code>
+<td width="34%" align="center" valign="top">
+<h4><font color="#FFFFFF">〔 🆔 SYSTEM IDENTITY 〕</font></h4>
+<code>UNIT: EIE101-CORE</code><br>
+<code>LOC: FISAT_ANGAMALY</code><br>
+<code>STAT: OPTIMIZED</code>
+<br><br>
+<img src="https://img.shields.io/badge/GSA-ACTIVE-39E09B?style=for-the-badge&logo=google&logoColor=white" />
 </td>
 
-<td width="35%" valign="top" align="right">
+<td width="33%" valign="top" align="right">
 <h4><font color="#FF69B4">〔 ⚡ SYSTEM VITALITY 〕</font></h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafnnan&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4" width="100%" />
-<br>
-<img src="https://img.shields.io/badge/GSA-ACTIVE-39E09B?style=for-the-badge&logo=google&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -39,18 +40,15 @@
 ### `$ systemctl status afnnan.identity`
 <table width="100%" border="0">
 <tr>
-<td width="75%" valign="top">
-<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 220, 232] <br>
-[cite_start]<code>Primary Roles:</code> Google Student Ambassador • IoT Specialist • Metron Editor [cite: 220, 308, 301] <br>
-[cite_start]<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency." [cite: 33]</i>
+<td width="100%" valign="top">
+<b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
+<code>Primary Roles:</code> Google Student Ambassador • IoT Specialist • Metron Editor <br>
+<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i>
 <br><br>
 <div align="left">
 <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree" /></a>
 </div>
-</td>
-<td width="25%" align="center">
-<img src="yuji-rage.png" width="140" alt="Yuji" />
 </td>
 </tr>
 </table>
@@ -64,7 +62,7 @@
 | 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
 | :--- | :--- | :--- |
 | ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma,github) |
-| [cite_start]`Python, C, Git` [cite: 225, 227] | [cite_start]`Arduino, MATLAB` [cite: 373, 372] | [cite_start]`PS, AI, Blender` [cite: 227, 365] |
+| `Python, C, Git` | `Arduino, MATLAB` | `PS, AI, Blender` |
 
 </div>
 
@@ -76,14 +74,10 @@
 
 <table border="0" width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=mohamedafnnan&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=00D4FF" width="100%" />
 </td>
-<td align="center" width="33%">
-<img src="divergent-fist.png" width="80" alt="Rank Icon" /><br>
-<b>RANK: SPECIAL GRADE</b>
-</td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafnnan&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=00D4FF" width="100%" />
 </td>
 </tr>
@@ -101,8 +95,8 @@
 ```zsh
 $ cat goals.txt
   1. Master the "Black Flash" of Hardware Interrupts ⚡
-  2. Prototype the Hairpin Bend Traffic Alert System 🚗 [cite: 302, 341]
-  3. Expand the "EIE 101" technical blog library 📚 [cite: 359]
+  2. Prototype the Hairpin Bend Traffic Alert System 🚗
+  3. Expand the "EIE 101" technical blog library 📚
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
