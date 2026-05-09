@@ -14,13 +14,13 @@
 </td>
 
 <td width="65%" align="center" valign="middle">
-<a href="https://eie101.blogspot.com">
-<img src="eie101%20logo%20adjusted.png" width="70%" />
-</a>
-<br>
+<h4><font color="#FF69B4">〔 🌐 EIE 101 HUB 〕</font></h4>
 <code>DESIGNATION: EIE101-CORE-UNIT</code>
-<br>
+<br><br>
 <h4><a href="https://eie101.blogspot.com"><font color="#00D4FF">👉 ACCESS THE ARCHIVES: EIE101.BLOGSPOT.COM</font></a></h4>
+<br>
+<img src="https://img.shields.io/badge/GSA-ACTIVE-39E09B?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ISA-REP-00D4FF?style=for-the-badge&logo=target" />
 </td>
 </tr>
 </table>
@@ -36,7 +36,7 @@
 ### `$ systemctl status afnnan.identity`
 <table width="100%" border="0">
 <tr>
-<td width="75%" valign="top">
+<td width="100%" valign="top">
 <b>Mohamed Afnnan</b> | EIE Student @ FISAT <br>
 <code>Primary Roles:</code> Google Student Ambassador • ISA Representative • Metron Editor <br>
 <code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i>
@@ -46,9 +46,6 @@
 <a href="https://eie101.blogspot.com"><img src="https://img.shields.io/badge/BLOG-FF69B4?style=for-the-badge&logo=blogger" /></a>
 <a href="https://linktr.ee/mohamedafnnan"><img src="https://img.shields.io/badge/RESOURCES-39E09B?style=for-the-badge&logo=linktree" /></a>
 </div>
-</td>
-<td width="25%" align="center">
-<img src="yuji-rage.png" width="140" />
 </td>
 </tr>
 </table>
@@ -71,11 +68,6 @@
 </table>
 
 <br>
-
-<img src="divergent-fist.png" width="120" /><br>
-<b>RANK: SPECIAL GRADE</b>
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedafnnan&theme=tokyonight&area=true&hide_border=true&color=FF69B4" width="100%" />
 
