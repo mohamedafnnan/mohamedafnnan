@@ -40,9 +40,9 @@
 <table width="100%" border="0">
 <tr>
 <td width="75%" valign="top">
-<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 392, 597] <br>
-[cite_start]<code>Primary Roles:</code> Google Student Ambassador • IoT Specialist • Metron Editor [cite: 416, 496, 538] <br>
-[cite_start]<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency."</i> [cite: 423]
+<b>Mohamed Afnnan</b> | [cite_start]EIE Student @ FISAT [cite: 220, 232] <br>
+[cite_start]<code>Primary Roles:</code> Google Student Ambassador • IoT Specialist • Metron Editor [cite: 220, 308, 301] <br>
+[cite_start]<code>Philosophy:</code> <i>"Precision engineering meeting REAL resource efficiency." [cite: 33]</i>
 <br><br>
 <div align="left">
 <a href="https://linkedin.com/in/mohamedafnnan"><img src="https://img.shields.io/badge/LINK-0A66C2?style=for-the-badge&logo=linkedin" /></a>
@@ -64,7 +64,7 @@
 | 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
 | :--- | :--- | :--- |
 | ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma,github) |
-| [cite_start]`Status: Optimized` [cite: 406] | [cite_start]`Status: Functional` [cite: 542] | [cite_start]`Status: Creative` [cite: 557] |
+| [cite_start]`Python, C, Git` [cite: 225, 227] | [cite_start]`Arduino, MATLAB` [cite: 373, 372] | [cite_start]`PS, AI, Blender` [cite: 227, 365] |
 
 </div>
 
@@ -101,8 +101,8 @@
 ```zsh
 $ cat goals.txt
   1. Master the "Black Flash" of Hardware Interrupts ⚡
-  2. Prototype the Hairpin Bend Traffic Alert System 🚗 [cite: 543]
-  3. Expand the "EIE 101" technical blog library 📚 [cite: 412]
+  2. Prototype the Hairpin Bend Traffic Alert System 🚗 [cite: 302, 341]
+  3. Expand the "EIE 101" technical blog library 📚 [cite: 359]
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
