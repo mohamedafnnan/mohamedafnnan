@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=DOMAIN%20EXPANSION&fontSize=80&animation=fadeIn&fontColor=FF69B4&desc=AFNNAN%20//%20SPECIAL%20GRADE%20ENGINEER&descSize=20&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=DOMAIN%20EXPANSION&fontSize=80&animation=fadeIn&fontColor=FF69B4&desc=//%20SPECIAL%20GRADE%20ENGINEER&descSize=20&descAlignY=75" width="100%" />
 
 <br>
 
