@@ -93,8 +93,8 @@
 
 | 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
 | :--- | :--- | :--- |
-| ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,ai,blender,figma,github) |
-| `Python, C, Shell` | `Arduino, MATLAB` | `PS, AI, Blender` |
+| ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,git,resolume) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,canva,blender,figma,github) |
+| `Python, C, Shell` | `Arduino, MATLAB` | `PS, canva, Blender` |
 
 </div>
 
