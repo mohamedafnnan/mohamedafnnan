@@ -20,7 +20,7 @@
 <br>
 <code>DESIGNATION: EIE101-CORE-UNIT</code>
 <br>
-<h4><a href="https://eie101.blogspot.com"><font color="#00D4FF">👉 ACCESS THE ARCHIVES: EIE101.BLOGSPOT.COM</font></a></h4>
+<h4><a href="https://eie101.blogspot.com"><font color="#00D4FF">➡️ ACCESS THE ARCHIVES: EIE101.BLOGSPOT.COM</font></a></h4>
 </td>
 </tr>
 </table>
