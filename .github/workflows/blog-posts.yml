@@ -14,7 +14,7 @@ jobs:
       - name: Pull EIE101 RSS
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://eie101.blogspot.com/feeds/posts/default?alt=rss"
+          feed_list: "https://eie101.blogspot.com/"
           max_post_count: 5
           # This tells the bot to look for comment_tag_name: "feed"
           template: "$newline >_ [$title]($url)"
