@@ -7,7 +7,7 @@
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="35%" valign="top" align="left">
-<h4><font color="#00D4FF">〔 🗞️ METRON NEWSLETTER 〕</font></h4>
+<h4><font color="#00D4FF">〔🗞️ METRON NEWSLETTER〕</font></h4>
 <code>$ tail -n 5 /logs/metron.editor</code><br>
 <img src="https://img.shields.io/badge/STATUS-PUBLISHING-39E09B?style=flat-square" /><br>
 <img src="https://komarev.com/ghpvc/?username=mohamedafnnan&color=FF69B4&style=flat-square&label=CURSED+ENERGY+STABILITY" />
