@@ -9,14 +9,12 @@ jobs:
     name: Sync Blogspot Data
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Pull EIE101 RSS
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://eie101.blogspot.com/"
-          max_post_count: 5
-          # This tells the bot to look for comment_tag_name: "feed"
-          template: "$newline >_ [$title]($url)"
-          committer_username: "afnnan-bot"
-          committer_email: "afnnan.dev@gmail.com"
+- name: Pull EIE101 RSS
+  uses: gautamkrishnar/blog-post-workflow@v1
+  continue-on-error: true
+  with:
+    feed_list: "https://eie101.blogspot.com/"
+    max_post_count: 5
+    template: "$newline >_ [$title]($url)"
+    committer_username: "afnnan-bot"
+    committer_email: "afnnan.dev@gmail.com"
