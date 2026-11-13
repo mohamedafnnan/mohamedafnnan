@@ -27,7 +27,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=INITIATING+BLACK+FLASH+REACTION;NATIONALS+BOUND:+IIT+BOMBAY+(DEC);2ND+@+TRACERCON,+TATHVA'26;GOOGLE+STUDENT+AMBASSADOR+@+FISAT;METRON+NEWSLETTER+CHIEF+EDITOR;EIE+101:+MAKING+INSTRUMENTATION+LESS+PAINFUL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=800&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=INITIATING+BLACK+FLASH+REACTION;2ND+@+TRACERCON,+TATHVA'26;GOOGLE+STUDENT+AMBASSADOR+@+FISAT;METRON+NEWSLETTER+CHIEF+EDITOR;EIE+101:+MAKING+INSTRUMENTATION+LESS+PAINFUL)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,11 +60,9 @@
 
 | 🎖️ RESULT | ⚔️ EVENT |
 | :--- | :--- |
-| 🥇 **1st** | Pick and Place Robotics, CUSAT zonal (IIT Bombay-associated fest) |
-| 🥉 **3rd** | Line Follower, CUSAT zonal. **Qualified for nationals at IIT Bombay, December** |
 | 🥈 **2nd** | TRACERCon, Tathva'26 (NIT Calicut), 40+ teams. Bot built in two nights from leftover parts |
 | 🥈 **2nd** | Watt's Next Ideathon, IEEE SB FISAT |
-| 🌟 **Rank 2** | IEEE RAS Campus Ambassador, nationally |
+| 🌟 **Rank 2** | IEEE RAS Campus Ambassador, nationally, for PRIM.E 2.0 |
 | 🎤 **Anchor** | FISAT Silver Jubilee inauguration (4000+ attendees, biggest event yet) |
 | 📜 **Elite 76%** | NPTEL: Python for Data Science |
 
@@ -74,11 +72,7 @@
 
 | 🧪 PROJECT | 📝 STATUS |
 | :--- | :--- |
-| 🤖 **Pick and Place Bot** | 3D printed chassis, open source arm, 7 servos, ESP32-S3 over WiFi. Prepping for IIT Bombay |
 | 🏁 **ESP32 Line Follower** | 7 IR sensors, TB6612FNG driver, PID tuned in Arduino IDE |
-| 🔐 **OT Security Testbed** | Modbus RTU over RS-485 on four ESP32 nodes (Master, Slave, Sniffer, Rogue), scored against IEC 62443 SL-A |
-| 🌾 **MandiPulse (SIH 2026)** | Live queue intelligence for agricultural procurement centres |
-| 🚦 **Hairpin Bend Traffic Alert System** | AICTE IDEA Lab |
 
 ---
 
@@ -121,7 +115,7 @@
 | 🔵 LOGIC (SW) | 🔴 PHYSICAL (HW) | 🟣 VISUAL (UI/UX) |
 | :--- | :--- | :--- |
 | ![Skills](https://skillicons.dev/icons?i=py,c,bash,linux,html,js) | ![Skills](https://skillicons.dev/icons?i=arduino,matlab) | ![Skills](https://skillicons.dev/icons?i=ps,latex,blender,figma,github) |
-| `Python, C, Shell` | `Arduino, ESP32, MATLAB, RS-485/Modbus` | `PS, Canva, Blender, LaTeX` |
+| `Python, C, Shell` | `Arduino, ESP32, MATLAB` | `PS, Canva, Blender, LaTeX` |
 
 </div>
 
@@ -130,11 +124,8 @@
 ## 🗨️ TERMINAL OVERRIDE
 ```zsh
 $ cat current_mission.txt
-  1. Take the pick and place bot to IIT Bombay nationals (December) 🤖
-  2. Master the "Black Flash" of Hardware Interrupts ⚡
-  3. Finish the Modbus/RS-485 OT security testbed 🔐
-  4. Deploy Hairpin Bend Traffic Alert System (IDEA Lab)
-  5. Expand EIE 101 technical archives
+  1. Master the "Black Flash" of Hardware Interrupts ⚡
+  2. Expand EIE 101 technical archives
 
 $ echo $STATUS
   "Domain Expansion: Infinite Innovation."
